@@ -8,7 +8,7 @@ Inspired by nature and middle school science, **The Leaf Project** is part of a 
 
 ## 🧠 Concept Sketch
 
-![Concept Sketch of Condensation Chamber](schematic/concept_sketch_condensation_chamber.png)
+![Concept Sketch of Condensation Chamber](https://github.com/AGRefurbished/The-Leaf_Project/blob/main/concept_sketch_condensation_chamber.png)
 
 *Steam rises into the chamber, condenses on angled synthetic leaves (made of heat-resistant silicone), and drips into a collection container. Excess pressure escapes via a relief valve.*
 
@@ -20,13 +20,6 @@ Inspired by nature and middle school science, **The Leaf Project** is part of a 
 - ⚡ **No power draw** — relies on basic physics, not fans or chillers
 - 🌀 **Closed-loop idea** — can cycle vapor locally or return to cooling loop
 - 🧩 **Modular & Scalable** — ideal for pairing with AI data centers in remote or coastal areas
-
----
-
-## 🔗 Related Projects
-- [Ai Water Cooling](https://github.com/AGRefurbished/Ai-Water-Cooling)
-
----
 
 ## 📚 Learn More
 - [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/a32749a5-8963-4278-99e4-f2266038458f)
