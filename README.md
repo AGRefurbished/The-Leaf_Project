@@ -27,3 +27,15 @@ Millions of gallons of water are used annually to cool AI data centers, stressin
 
 **The Leaf Project** addresses these challenges by offering a low-tech, scalable cooling solution that mimics nature’s water cycle.  
 It’s a step toward truly sustainable and regenerative AI infrastructure.
+## 🖼️ Concept Sketch
+
+Below is a hand-drawn sketch of the **Leaf Condensation Tower**, showing the vertical vapor rise and angled synthetic leaf layers for condensation and collection.
+
+![Leaf Project Sketch](file-LYFgsySUaxJY27XwV3aVmb)
+
+### Key Features Illustrated:
+
+- **Steam inlet** at the base, funneling heated vapor upward  
+- **Angled synthetic leaves** capture and condense water vapor  
+- **Gravity-assisted dripping** collects clean water in a central column or reservoir  
+- **Air pressure relief valve** at the top to prevent overpressure and ensure safety  
