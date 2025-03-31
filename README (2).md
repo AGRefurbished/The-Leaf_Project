@@ -11,7 +11,8 @@ Inspired by nature and middle school science, **The Leaf Project** is part of a 
 
 ## 🧠 Concept Sketch
 
-![Concept Sketch of Condensation Chamber](schematic/concept_sketch_condensation_chamber.png)
+![Concept Sketch of Condensation Chamber](concept_sketch_condensation_chamber.png)
+
 
 *Steam rises into the chamber, condenses on angled synthetic leaves (made of heat-resistant silicone), and drips into a collection container. Excess pressure escapes via a relief valve.*
 
