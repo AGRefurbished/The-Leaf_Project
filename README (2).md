@@ -26,10 +26,6 @@ Inspired by nature and middle school science, **The Leaf Project** is part of a 
 
 ---
 
-## 🔗 Related Projects
-- [Ai Water Cooling](https://github.com/AGRefurbished/Ai-Water-Cooling)
-
----
 
 ## 📚 Learn More
 - [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/a32749a5-8963-4278-99e4-f2266038458f)
